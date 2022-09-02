@@ -1,3 +1,5 @@
 This file contains some content as well!
 
 Added new content
+
+Added new line in a new branch
